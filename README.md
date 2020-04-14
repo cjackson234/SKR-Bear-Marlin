@@ -10,6 +10,7 @@
 ## Specs
 
 This firmware is configured for a Full Bear MK3 fitted with a BigTreeTech SKR 1.4 and TMC2209s:
+* [Prusa Bear Project](https://github.com/gregsaun)
 
 ### Motherboard
 * [BigTreeTech SKR 1.4 Turbo](https://www.biqu.equipment/collections/skr-series/products/btt-skr-v1-4-skr-v1-4-pro)
